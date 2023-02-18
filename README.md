@@ -2,7 +2,7 @@
 
 data/COVID-19 News Articals.csv: Dataset for COVID-19 news articals.
 
-data/Wikipedia Data for Customized Model.json: Pre-tagged Wilipedia Data to train the spaCy cusmoized model.
+data/Wikipedia Data for Customized Model.json: Pre-tagged Wilipedia data to train the spaCy cusmoized model.
 
 MetaMap.ipynb: Source code for feature extractoin using MetaMap.
 
